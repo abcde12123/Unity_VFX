@@ -145,6 +145,6 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Dissolve_Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _Main_Color: {r: 2, g: 2, b: 2, a: 1}
+    - _Main_Color: {r: 1.0592737, g: 1.0592737, b: 1.0592737, a: 1}
     - _Vector_XYZW: {r: 0, g: 0.5, b: 0, a: 0.2}
   m_BuildTextureStacks: []
